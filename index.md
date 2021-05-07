@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Neon Blast is a game I made 
 
-You can use the [editor on GitHub](https://github.com/AliBharwani/neonblastsupport/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Apple told me I need a support url so here we are. If you need support just create a pull request, or just cuss me out in the reviews, your call
 
 ### Markdown
 
